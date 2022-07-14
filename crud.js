@@ -22,4 +22,12 @@ $(function(){
         })
         });
     });
+
+    $("#insertar").click(function(){
+        cargarDatos()
+    })
+
+    function cargarDatos(){
+        
+    }
 })
